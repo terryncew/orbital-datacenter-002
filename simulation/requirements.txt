@@ -1,0 +1,7 @@
+# Pinned dependencies — verified against these exact versions on Python 3.12.3.
+# The tournament model (orbital_datacenter_study.py) and the C6 falsification
+# screen are standard-library only; matplotlib/numpy/Pillow are used only by
+# generate_figures.py.
+matplotlib==3.8.4
+numpy==1.26.4
+Pillow==10.2.0
